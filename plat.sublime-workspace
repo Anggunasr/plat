@@ -1,0 +1,712 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"loginForm\tfn "
+			],
+			[
+				"rou",
+				"router-outlet"
+			],
+			[
+				"r",
+				"ROUTER_DIRECTIVES"
+			],
+			[
+				"Rou",
+				"RouterConfig\t? "
+			],
+			[
+				"fig",
+				"figcaption\tTag"
+			],
+			[
+				"rand",
+				"randomIndex"
+			],
+			[
+				"Ses",
+				"session_start"
+			],
+			[
+				"session_",
+				"session_start"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"Nama",
+				"NamaPegawai"
+			],
+			[
+				"Te",
+				"TelpPegawai"
+			],
+			[
+				"Jenis",
+				"JenisKelaminPegawai"
+			],
+			[
+				"table",
+				"table-striped"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Juma",
+				"Jumlah_Barang"
+			],
+			[
+				"H",
+				"HargaBarang"
+			],
+			[
+				"Bera",
+				"BeratBarang"
+			],
+			[
+				"Merk",
+				"MerkBarang"
+			],
+			[
+				"im",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"cont",
+				"justify-content"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"jadwal_keberang",
+				"jadwal_keberangkatan"
+			],
+			[
+				"jadwal_keberangkatan_tanggal_",
+				"jadwal_keberangkatan_tanggal_berangkat"
+			],
+			[
+				"e",
+				"editkereta"
+			],
+			[
+				"jadwal_keberangkatan_tang",
+				"jadwal_keberangkatan_tanggal_berangkat"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_row"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ocr/test.py",
+			"settings":
+			{
+				"buffer_size": 7,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "test.py"
+			}
+		},
+		{
+			"file": "xternal/OpenCV_3_License_Plate_Recognition_Python-master-58f7203/Main.py",
+			"settings":
+			{
+				"buffer_size": 7165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ocr/DetectChars.py",
+			"settings":
+			{
+				"buffer_size": 23934,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ocr/test_config.py",
+			"settings":
+			{
+				"buffer_size": 112,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "test_config.py"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 368.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/plat",
+		"/C/Users/user/plat/data",
+		"/C/Users/user/plat/data/plat-indo-train",
+		"/C/Users/user/plat/ocr",
+		"/C/Users/user/plat/xprmt",
+		"/C/Users/user/plat/xprmt/ocr",
+		"/C/Users/user/plat/xternal",
+		"/C/Users/user/plat/xternal/OpenCV_3_License_Plate_Recognition_Python-master-58f7203"
+	],
+	"file_history":
+	[
+		"/C/Users/user/plat/xternal/.gitignore",
+		"/C/Users/user/plat/ocr/train_config.py",
+		"/C/Users/user/plat/ocr/train.py",
+		"/C/Users/user/plat/xternal/OpenCV_3_KNN_Character_Recognition_Python-master-97c0305/GenData.py",
+		"/C/Users/user/plat/README.md",
+		"/C/Users/user/plat/xprmt/ocr/.gitignore",
+		"/C/Users/user/plat/.gitignore",
+		"/C/Users/user/Desktop/StudentHack/src/app/login/login.component.ts",
+		"/C/Users/user/Desktop/StudentHack/src/app/app.module.ts",
+		"/C/Users/user/Desktop/StudentHack/src/app/app.component.ts",
+		"/C/Users/user/Desktop/StudentHack/src/app/login/login.component.css",
+		"/C/Users/user/plat/data/.gitignore",
+		"/C/Users/user/Desktop/StudentHack/src/app/login/login.component.html",
+		"/D/BOT/botplat_rename/dbPlat.txt",
+		"/D/BOT/botplat_rename/dirlist.txt",
+		"/D/Semester 6/KOM415/dbPlat.txt",
+		"/C/Users/user/Desktop/StudentHack/src/index.html",
+		"/C/Users/user/Desktop/StudentHack/src/app/app.component.html",
+		"/C/Users/user/Desktop/StudentHack/src/app/app.component.css",
+		"/D/numpy-1.11.2/INSTALL.rst.txt",
+		"/C/Users/user/Desktop/StudentHack/app/template/login.component.html",
+		"/C/Users/user/Desktop/StudentHack/index.html",
+		"/C/Users/user/Desktop/StudentHack/app/ts/main.ts",
+		"/C/Users/user/Desktop/StudentHack/app/ts/login.component.ts",
+		"/C/Users/user/Desktop/StudentHack/app/ts/app.routes.ts",
+		"/C/Users/user/Desktop/StudentHack/app/ts/student.ts",
+		"/C/Users/user/Desktop/StudentHack/app/ts/login.component.html",
+		"/C/Users/user/Desktop/StudentHack/app/ts/app.component.html",
+		"/C/Users/user/Desktop/StudentHack/app/.jshintrc",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/user/Desktop/StudentHack/node_modules/es6-shim/es6-shim.js",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SublimeOnSaveBuild.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/tern_for_sublime/Default.sublime-keymap",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/tern_for_sublime/Tern.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Tern.sublime-settings",
+		"/C/Users/user/Desktop/StudentHack/app/ts/config.service.ts",
+		"/C/Users/user/Desktop/StudentHack/app/js/main.js.map",
+		"/C/Users/user/Desktop/StudentHack/app/ts/app.component.ts",
+		"/C/Users/user/Desktop/StudentHack/app/js/main.js",
+		"/D/installcorel.txt",
+		"/C/Users/user/Desktop/StudentHack/angular-2-template-master/README.md",
+		"/D/Angular/quickstart/src/app/app.component.js",
+		"/C/Users/user/Downloads/FRW614FH994I1VE.txt",
+		"/D/TugasKuliah-5/lab7_2.html",
+		"/D/lab7.html",
+		"/D/Semester 5/Project_SI/chik/css/custom-styles.css",
+		"/D/Semester 5/Project_SI/chik/index.html",
+		"/D/JKLN/BUKU JURUS KULIAH KE LUAR NEGERI/Password.txt",
+		"/C/Users/user/Documents/So, I Married an Anti-Fan/so-i-married-the-anti-fan_indonesian-1371370/So,I.Married.the.Anti-fan.(2016).TC-x254-RAVENSPIDER-IMM.srt",
+		"/D/Up Penkom/MOCHAMADALDIFAUZIE(G84150076)/MOCHAMADALDIFAUZIE(G84150076).txt",
+		"/D/Up Penkom/Muhammd Farhan(G84150085)/warna-warna.html",
+		"/D/Up Penkom/Agus Pratama Damanik (G84150059)/HTML.html",
+		"/C/xampp/htdocs/chik/DaftarPegawaii.php",
+		"/C/xampp/htdocs/chik/edit.php",
+		"/C/xampp/htdocs/chik/deletePegawai.php",
+		"/C/xampp/htdocs/chik/tambah.php",
+		"/C/xampp/htdocs/chik/TambahPegawai.php",
+		"/C/xampp/htdocs/chik/stock.php",
+		"/C/xampp/htdocs/chik/stock_Pegawai.php",
+		"/C/xampp/htdocs/chik/remove.php",
+		"/C/xampp/htdocs/chik/penjualan_2.php",
+		"/C/xampp/htdocs/chik/laporan.php",
+		"/C/xampp/htdocs/chik/index.php",
+		"/C/xampp/htdocs/chik/homePegawai.php",
+		"/C/xampp/htdocs/chik/homeAdmin.php",
+		"/C/xampp/htdocs/chik/hasil.php",
+		"/C/xampp/htdocs/chik/fungsi_rupiah.php",
+		"/C/xampp/htdocs/chik/EditPegawai.php",
+		"/C/xampp/htdocs/chik/delete.php",
+		"/D/SoundManager.cs",
+		"/D/Game/FGame/Assets/QuitOnClick.cs",
+		"/D/Game/FGame/Assets/SelectInInput.cs",
+		"/D/Game/FGame/Assets/Quit.cs",
+		"/D/Game/FGame/Assets/LoadScreenOnClick.cs",
+		"/D/Game/FGame/Assets/Menu.cs",
+		"/C/Program Files/Unity/Editor/Data/Documentation/en/ScriptReference/MonoBehaviour.html",
+		"/D/kom/Maze/Assets/controller.cs",
+		"/D/Game/DragPanel.cs",
+		"/D/Game/FocusPanel.cs",
+		"/D/Game/TooglePanelButton.cs",
+		"/D/Game/ResizePanel.cs",
+		"/C/xampp/htdocs/BrownChik/homePegawai.php",
+		"/C/xampp/htdocs/chik/GameController",
+		"/D/Unity/Goblin.E04.161210.720p-540p-450p-XViD-WITH-iPOP-BarosG-LIMO-NEXT-CHAOSrel [VIU Version].srt",
+		"/D/DestroyByContact",
+		"/C/xampp/htdocs/chik/selesai.php",
+		"/C/xampp/htdocs/chik/css/custom-styles.css",
+		"/C/xampp/htdocs/chik/css/main.css",
+		"/C/xampp/htdocs/chik/css/style.css",
+		"/C/xampp/htdocs/chik/addtocart.php",
+		"/C/xampp/htdocs/chik/penjualan.php",
+		"/C/xampp/htdocs/chik/Logout.php",
+		"/C/xampp/htdocs/chik/MainLogin.php",
+		"/C/xampp/htdocs/chik/css2/style.css",
+		"/D/Project_SI/LARAS/penjualan.php",
+		"/C/xampp/htdocs/chik/css/bootstrap.css",
+		"/C/xampp/htdocs/chik/DaftarPegawai.php",
+		"/C/xampp/htdocs/chik/pegawai.php",
+		"/D/Project_SI/daily_ui_day1_sign_in/index.html",
+		"/D/Project_SI/daily_ui_day1_sign_in/css/style.css",
+		"/C/xampp/htdocs/chik/chart.php",
+		"/D/Project_Grafkom/Projek_Anggun/Assets/Movement.cs",
+		"/C/xampp/htdocs/chik/home.php",
+		"/C/xampp/htdocs/chik/Login/css/style.css",
+		"/C/xampp/htdocs/BrownChik/css/custom-styles.css",
+		"/C/xampp/htdocs/BrownChik/css/main.css",
+		"/C/xampp/htdocs/BrownChik/css/bootstrap.css",
+		"/C/xampp/htdocs/chik/css/component.css",
+		"/C/xampp/htdocs/chik/css/font-awesome.css",
+		"/C/xampp/htdocs/chik/css/font-awesome-ie7.css",
+		"/C/xampp/htdocs/chik/css/bootstrap-responsive.css",
+		"/C/xampp/htdocs/chik/css/css/style.css",
+		"/C/xampp/htdocs/IMB2/edit.php",
+		"/C/xampp/htdocs/IMB2/formulirRegistrasi.php",
+		"/C/xampp/htdocs/IMB2/login1.php",
+		"/C/xampp/htdocs/IMB2/dataBangunan.php",
+		"/C/xampp/htdocs/chik/Login/index.html",
+		"/C/xampp/htdocs/chik/Login/css/animate.css",
+		"/C/xampp/htdocs/chik/Login/home.html",
+		"/C/xampp/htdocs/chik/connect.php",
+		"/C/xampp/htdocs/chik/connect2.php",
+		"/C/xampp/htdocs/BrownChik/css/bootstrap_2.css",
+		"/C/xampp/htdocs/BrownChik/penjualan.php",
+		"/C/xampp/htdocs/BrownChik/datepicker.css",
+		"/C/xampp/htdocs/BrownChik/bootstrap_2.css",
+		"/C/xampp/htdocs/chik/css/bootstrap_2.css",
+		"/C/xampp/htdocs/ch/index.php",
+		"/C/xampp/htdocs/chik/stock.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"crlf",
+			"lf",
+			".jpg",
+			"_",
+			"directives",
+			"routeConfig",
+			"idpe",
+			"myid",
+			"echo",
+			".btn",
+			"index.php",
+			"penjualan.php",
+			"    }",
+			"penjualan.php",
+			"session_start",
+			"$IDPegawai",
+			"myID",
+			"penjualan.php",
+			"penjualan",
+			"container",
+			"box-header",
+			"                            <",
+			"index",
+			"NamaP",
+			"rupi",
+			"body",
+			"bg_1",
+			".container",
+			".body",
+			">\n",
+			".container",
+			"top",
+			".p",
+			"small",
+			"p:small",
+			".top",
+			"top",
+			"die",
+			"connect",
+			"striped",
+			".btn",
+			"legend",
+			"logo",
+			"container",
+			"button",
+			"input",
+			"table-s",
+			".table th",
+			".table",
+			"table",
+			"table-striped",
+			"striped",
+			"stripes",
+			"collapse",
+			"btn-navbar",
+			"btn btn-navbar",
+			"menu",
+			"container",
+			"header",
+			"navbar",
+			"header",
+			"menu",
+			"nav",
+			"menu",
+			"konek",
+			"style",
+			"src",
+			"col-",
+			"row",
+			"col-",
+			"col",
+			"col-",
+			"row",
+			"konek",
+			"class",
+			"col-m",
+			"cart",
+			"masuk",
+			"index.php",
+			"form",
+			"margin:",
+			"form{",
+			"form",
+			"btn",
+			"span",
+			"container",
+			"btn",
+			"icon",
+			"input",
+			"button",
+			"JumlahBarang",
+			"stock.html",
+			"$data",
+			"stylesheet",
+			");\n",
+			"icon",
+			"background",
+			"bacground",
+			"fw-icon-camera",
+			"fw-icon",
+			"-fw-icon",
+			"templa",
+			"yes",
+			"kelas",
+			"showIDF",
+			"\"ID\"",
+			"ID",
+			"prosesa",
+			"HEAD",
+			"ID_Pendaftar",
+			"nama",
+			"namaN",
+			"nama",
+			"jenba",
+			"<html>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" ",
+			"pendaftar_ID_Pendaftar",
+			"nama_kereta"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ocr/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test.py",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "xternal/OpenCV_3_License_Plate_Recognition_Python-master-58f7203/Main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ocr/DetectChars.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3837,
+								3839
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 37.0,
+						"translation.y": 1465.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ocr/test_config.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63,
+								63
+							]
+						],
+						"settings":
+						{
+							"auto_name": "test_config.py",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plat.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
