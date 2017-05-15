@@ -129,18 +129,17 @@
 			"file": "xternal/OpenCV_3_License_Plate_Recognition_Python-master-58f7203/Main.py",
 			"settings":
 			{
-				"buffer_size": 7165,
+				"buffer_size": 7167,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "ocr/DetectChars.py",
+			"file": "xternal/.gitignore",
 			"settings":
 			{
-				"buffer_size": 23934,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
+				"buffer_size": 13,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -209,15 +208,15 @@
 	[
 		"/C/Users/user/plat",
 		"/C/Users/user/plat/data",
-		"/C/Users/user/plat/data/plat-indo-train",
 		"/C/Users/user/plat/ocr",
 		"/C/Users/user/plat/xprmt",
-		"/C/Users/user/plat/xprmt/ocr",
 		"/C/Users/user/plat/xternal",
 		"/C/Users/user/plat/xternal/OpenCV_3_License_Plate_Recognition_Python-master-58f7203"
 	],
 	"file_history":
 	[
+		"/C/Users/user/plat/ocr/DetectChars.py",
+		"/C/Users/user/plat/ocr/DetectPlates.py",
 		"/C/Users/user/plat/xternal/.gitignore",
 		"/C/Users/user/plat/ocr/train_config.py",
 		"/C/Users/user/plat/ocr/train.py",
@@ -343,9 +342,7 @@
 		"/C/xampp/htdocs/BrownChik/penjualan.php",
 		"/C/xampp/htdocs/BrownChik/datepicker.css",
 		"/C/xampp/htdocs/BrownChik/bootstrap_2.css",
-		"/C/xampp/htdocs/chik/css/bootstrap_2.css",
-		"/C/xampp/htdocs/ch/index.php",
-		"/C/xampp/htdocs/chik/stock.html"
+		"/C/xampp/htdocs/chik/css/bootstrap_2.css"
 	],
 	"find":
 	{
@@ -528,7 +525,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -537,15 +534,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7165,
+						"buffer_size": 7167,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1048,
-								1048
+								3575,
+								3575
 							]
 						],
 						"settings":
@@ -555,7 +552,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 195.0,
+						"translation.y": 1368.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -563,32 +560,30 @@
 				},
 				{
 					"buffer": 2,
-					"file": "ocr/DetectChars.py",
+					"file": "xternal/.gitignore",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 23934,
+						"buffer_size": 13,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3837,
-								3839
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
-						"translation.x": 37.0,
-						"translation.y": 1465.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
