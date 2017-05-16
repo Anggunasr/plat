@@ -22,7 +22,6 @@ showSteps = False
 def main():
 
     blnKNNTrainingSuccessful = DetectChars.loadKNNDataAndTrainKNN()         # attempt KNN training
-#test
     if blnKNNTrainingSuccessful == False:                               # if KNN training was not successful
         print "\nerror: KNN traning was not successful\n"               # show error message
         return                                                          # and exit program
