@@ -4,6 +4,7 @@ import cv2
 import numpy as np
 import math
 import random
+import os
 
 import test
 import Preprocess
@@ -52,7 +53,7 @@ def loadKNNDataAndTrainKNN():
         npaClassifications = np.loadtxt(tstcnfg.resultCls, np.float32)                  # read in training classifications
     except:                                                                                 # if file could not be opened
         print "error, unable to open classifications.txt, exiting program\n"                # show error message
-        os.system("pause")
+        #os.system("pause")
         return False                                                                        # and return False
     # end try
 
@@ -60,7 +61,7 @@ def loadKNNDataAndTrainKNN():
         npaFlattenedImages = np.loadtxt(tstcnfg.resultFltn, np.float32)                 # read in training images
     except:                                                                                 # if file could not be opened
         print "error, unable to open flattened_images.txt, exiting program\n"               # show error message
-        os.system("pause")
+        #os.system("pause")
         return False                                                                        # and return False
     # end try
 
@@ -435,11 +436,3 @@ def recognizeCharsInPlate(imgThresh, listOfMatchingChars):
 
     return strChars
 # end function
-
-
-
-
-
-
-
-
