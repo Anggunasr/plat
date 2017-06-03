@@ -159,7 +159,7 @@ def findPossibleCharsInScene(imgThresh):
 
 ###################################################################################################
 def extractPlate(imgOriginal, listOfMatchingChars):
-    possiblePlate = PossiblePlate.PossiblePlate()           # this will be the return value
+    possiblePlate = PossiblePlate.Poss  iblePlate()           # this will be the return value
 
     listOfMatchingChars.sort(key = lambda matchingChar: matchingChar.intCenterX)        # sort chars from left to right based on x position
 
@@ -206,15 +206,3 @@ def extractPlate(imgOriginal, listOfMatchingChars):
 
     return possiblePlate
 # end function
-
-
-
-
-
-
-
-
-
-
-
-
