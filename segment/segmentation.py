@@ -17,5 +17,5 @@ for (i, (x, y, w, h)) in enumerate(rects):
 	string = str(i)
 	cv2.imshow("image"+string, crop_img)
 # show the detected cat faces
-cv2.imshow("Cat Faces", imagecopy)
+cv2.imshow("Orignal", imagecopy)
 cv2.waitKey(0)
